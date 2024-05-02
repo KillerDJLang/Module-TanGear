@@ -1,0 +1,355 @@
+{
+  "RigsTan": {
+    "66330c6df47bedf689ab0e5b": {
+      "ItemToClone": "5b44cad286f77402a54ae7e5",
+      "newID": "66330c6df47bedf689ab0e5b",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/tacteccarrier.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "5.11 Tactical TacTec plate carrier (Tan)",
+          "shortName": "TacTec Rig",
+          "description": "A plate carrier with armor plates made of polyethylene (Russian GOST class 5 protection) and a set of pouches for use with assault rifles. Manufactured by 5.11 Tactical."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330c735cd39ae3667486ea": {
+      "ItemToClone": "592c2d1a86f7746dbe2af32a",
+      "newID": "66330c735cd39ae3667486ea",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/anaalpha.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "ANA Tactical Alpha chest rig (Tan)",
+          "shortName": "Alpha",
+          "description": "\"Alpha\" is a high-quality chest rig that fully meets the military standards for reliability and functionality. The combination of integrated pouches and MOLLE straps provides the means of carrying a large number of necessary equipment. The vest is designed as a classic chest rig. In this type of vest, all the gear is located in the front and side parts, while the back part is comprised of adjustment belts and straps. Manufactured by ANA Tactical."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330c78f8acddbdc4aeab67": {
+      "ItemToClone": "5c0e722886f7740458316a57",
+      "newID": "66330c78f8acddbdc4aeab67",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/anam1.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "ANA Tactical M1 plate carrier (Tan)",
+          "shortName": "ANA M1 Rig",
+          "description": "A tactical rig with additional class 4 (Russian GOST) armor plates. The vest is created with the use of the best experience of Russian special forces operators. The versatility of the system makes it possible to use this vest both when carrying out city tasks and when performing tasks on rough terrain. Equipped with additional pouches. Manufactured by ANA Tactical."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330c7dc445ef04536bb4df": {
+      "ItemToClone": "5ab8dced86f774646209ec87",
+      "newID": "66330c7dc445ef04536bb4df",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/anam2.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "ANA Tactical M2 plate carrier (Tan)",
+          "shortName": "ANA M2 Rig",
+          "description": "A tactical rig with additional class 4 (Russian GOST) armor plates. The vest is created with the use of the best experience of Russian special forces operators. The versatility of the system makes it possible to use this vest both when carrying out city tasks and when performing tasks on rough terrain. Equipped with additional pouches for 8 magazines. Manufactured by ANA Tactical."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330c85eea3cf10181b6a61": {
+      "ItemToClone": "5e4ac41886f77406a511c9a8",
+      "newID": "66330c85eea3cf10181b6a61",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/arscpc.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Ars Arma CPC MOD.2 plate carrier (Tan)",
+          "shortName": "CPC MOD.2",
+          "description": "The second generation of the CPC body armor designed by Crye Precision and adapted by Ars Arma for use by special forces of the Russian Federation. This modular body armor is based on a polymer corset that fits the body, which avoids the backlash of the body arm during active movement and also contributes to a more even distribution of weight. Made in the assault configuration of pouches and armor elements. Manufactured by Ars Arma."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 4
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330c8af955d59798ff92c8": {
+      "ItemToClone": "5df8a42886f77412640e2e75",
+      "newID": "66330c8af955d59798ff92c8",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/mppv.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Velocity Systems MPPV Multi-Purpose Patrol Vest (Tan)",
+          "shortName": "MPPV",
+          "description": "Multi-Purpose Patrol Vest is designed for those patrolling situations where armor is not needed. A lightweight rig with a lot of pouches. Manufactured by Velocity Systems."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330c900b6a130900ac8df7": {
+      "ItemToClone": "544a5caa4bdc2d1a388b4568",
+      "newID": "66330c900b6a130900ac8df7",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/cryeavs.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Crye Precision AVS plate carrier (Tan)",
+          "shortName": "AVS Rig",
+          "description": "The Crye Precision AVS rig equipped with light armored plates (Russian GOST class 4 protection) from combined materials. One of the most comfortable to wear plate carriers."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330c944cf82aae7849e6d8": {
+      "ItemToClone": "5648a69d4bdc2ded0b8b457b",
+      "newID": "66330c944cf82aae7849e6d8",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/blackrock.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "BlackRock chest rig (Tan)",
+          "shortName": "BlackRock",
+          "description": "A custom-made chest rig for wearing on top of body armor in urban operations. Sturdy and versatile, it features both MOLLE and ALICE attachment systems."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330c9b681ae2026b2aa92d": {
+      "ItemToClone": "5d5d85c586f774279a21cbdb",
+      "newID": "66330c9b681ae2026b2aa92d",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/d3crx.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Haley Strategic D3CRX Chest Harness (Tan)",
+          "shortName": "D3CRX",
+          "description": "The Haley Strategic D3CRX Combat chest rig is one of the most respected PMC rig systems. Ease and comfort of use are supported by the presence of the optimal number of pouches."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330c9fd36c779b1164fa4d": {
+      "ItemToClone": "5e9db13186f7742f845ee9d3",
+      "newID": "66330c9fd36c779b1164fa4d",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/lbt1961a.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "LBT-1961A Load Bearing chest rig (Tan)",
+          "shortName": "LBCR",
+          "description": "A tactical load-bearing system designed to carry magazines, grenades, and special equipment, while using low-profile body armor. Manufactured by London Bridge Trading."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330ca7a95e8a6b2b611fe0": {
+      "ItemToClone": "5f5f41f56760b4138443b352",
+      "newID": "66330ca7a95e8a6b2b611fe0",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/thunderbolt.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Direct Action Thunderbolt compact chest rig (Tan)",
+          "shortName": "Thunderbolt",
+          "description": "The Thunderbolt fixed chest rig, containing all the basic utility pouches you'd need. Manufactured by Direct Action."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330cac2c44f8d1d336ca5a": {
+      "ItemToClone": "5f5f41f56760b4138443b352",
+      "newID": "66330cac2c44f8d1d336ca5a",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/tv109.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "WARTECH TV-109 + TV-106 chest rig (Tan)",
+          "shortName": "TV-106 + TV-109",
+          "description": "The WARTECH gear rig consisting of the TV-106 Battle Belt and TV-109 heavy suspension system. The shoulder straps are reinforced with foam and have MOLLE straps, and the TV-109 combined with the TV-106 completes the belt system into a full-featured gear rig."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330cb24d809b9d730ae719": {
+      "ItemToClone": "609e860ebd219504d8507525",
+      "newID": "66330cb24d809b9d730ae719",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Rigs/avs_mbav.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Crye Precision AVS MBAV plate carrier (Tan)",
+          "shortName": "AVS MBAV rig",
+          "description": "A well-worn plate carrier based on the AVS module system by Crye Precision. It has one front panel with three attached pouches. And that's pretty much it. Nothing more, nothing less."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 4
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    }
+  }
+}

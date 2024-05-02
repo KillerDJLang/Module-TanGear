@@ -1,0 +1,409 @@
+{
+  "ArmorTan": {
+    "66330ee19423f40f3fa78ec3": {
+      "ItemToClone": "5b44cd8b86f774503d30cba2",
+      "newID": "66330ee19423f40f3fa78ec3",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/gen4_full.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "IOTV Gen4 body armor (full protection, Tan)",
+          "shortName": "Gen4 Full",
+          "description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Full protection kit."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 4
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330ee74218a2a5a82077ca": {
+      "ItemToClone": "5b44cf1486f77431723e3d05",
+      "newID": "66330ee74218a2a5a82077ca",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/gen4_assault.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "IOTV Gen4 body armor (assault kit, Tan)",
+          "shortName": "Gen4 Assault",
+          "description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased ergonomics assault kit."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330ef029a430330eeeadbc": {
+      "ItemToClone": "5b44d0de86f774503d30cba8",
+      "newID": "66330ef029a430330eeeadbc",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/gen4_mobility.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "IOTV Gen4 body armor (high mobility kit, Tan)",
+          "shortName": "Gen4 HMK",
+          "description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Increased mobility and comfort kit."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330ef60777777b3b4b0992": {
+      "ItemToClone": "5c0e51be86f774598e797894",
+      "newID": "66330ef60777777b3b4b0992",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/6b13.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "6B13 assault armor (Tan)",
+          "shortName": "6B13",
+          "description": "The main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions. Tan version."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 4
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330efb74cac9f508550486": {
+      "ItemToClone": "5fd4c474dd870108a754b241",
+      "newID": "66330efb74cac9f508550486",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/hgrid.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "5.11 Tactical Hexgrid plate carrier (Tan)",
+          "shortName": "Hexgrid",
+          "description": "The Hexgrid plate carrier with smooth ergonomic access that allows comfortable movement, intended for use with chest rigs. Manufactured by 5.11 Tactical."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 4
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330f00a063786871cd61e0": {
+      "ItemToClone": "5ab8e4ed86f7742d8e50c7fa",
+      "newID": "66330f00a063786871cd61e0",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/untarvest.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Light Military Flak Vest (Tan)",
+          "shortName": "Flak Vest",
+          "description": "A class III body armor used by PMCs and security forces all around the world."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330f055188422d0feb164c": {
+      "ItemToClone": "5c0e655586f774045612eeb2",
+      "newID": "66330f055188422d0feb164c",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/trooper.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "HighCom Trooper TFO body armor (USEC, Tan)",
+          "shortName": "Trooper",
+          "description": "A plate armor vest by HighCom, popular among USEC PMCs. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Tan version."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330f0bc8de92773dc1f234": {
+      "ItemToClone": "5c0e655586f774045612eeb2",
+      "newID": "66330f0bc8de92773dc1f234",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/trooper_clean.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "HighCom Trooper TFO body armor (Tan)",
+          "shortName": "Trooper",
+          "description": "A plate armor vest by HighCom. The lightweight AR500 class 4 (Russian GOST) protection plates cover only the chest and back areas. Tan version."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330f134508c0ff24f07df2": {
+      "ItemToClone": "5648a7494bdc2d9d488b4583",
+      "newID": "66330f134508c0ff24f07df2",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/paca.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "PACA Soft Armor (Tan)",
+          "shortName": "PACA",
+          "description": "A light but durable and reliable body armor protecting only the vital areas, fitted with class 2 (Russian GOST) armor plates."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330f181863ea9d46461094": {
+      "ItemToClone": "5df8a2ca86f7740bfe6df777",
+      "newID": "66330f181863ea9d46461094",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/6B2.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "6B2 body armor (Tan)",
+          "shortName": "6B2",
+          "description": "An old army body armor from Afghanistan war times, mainly designed to protect against pistol bullets and explosion fragments. It fulfilled its mission, but was soon replaced by bulletproof vests with differentiated protection."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330f1d9b83f4eb4036f65a": {
+      "ItemToClone": "5b44d0de86f774503d30cba8",
+      "newID": "66330f1d9b83f4eb4036f65a",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/gen4_light.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "IOTV Gen4 body armor (light kit, Tan)",
+          "shortName": "Gen4 Light",
+          "description": "The Improved Outer Tactical Vest (IOTV) Gen IV is designed to permit maximum freedom of movement required to assume correct firing positions with the agility to execute and maneuver tasks. Optimal design characteristics ensure the best possible weight distribution of both the ballistic body armor system as well as additional load bearing equipment, thus providing enhanced comfort, wear duration, and mobility. Light kit."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330f21fb0687a2ba66d21d": {
+      "ItemToClone": "5c0e53c886f7747fa54205c7",
+      "newID": "66330f21fb0687a2ba66d21d",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/ana_m2_armor.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "ANA Tactical M2 armor (Tan)",
+          "shortName": "ANA M2 armor",
+          "description": "A tactical plate carrier with additional class 4 (Russian GOST) armor plates. The vest is created with the use of the best experience of Russian special forces operators. The versatility of the system makes it possible to use this vest both when carrying out city tasks and when performing tasks on rough terrain. Plate carrier variant. Manufactured by ANA Tactical."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330f25a08cc3ebb15ab2a5": {
+      "ItemToClone": "5fd4c474dd870108a754b241",
+      "newID": "66330f25a08cc3ebb15ab2a5",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/tactec_armor.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "5.11 Tactical TacTec armor (Tan)",
+          "shortName": "TacTec armor",
+          "description": "A plate carrier with armor plates made of polyethylene (Russian GOST class 5 protection). Manufactured by 5.11 Tactical."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330f2af4b5f96a6fb6a121": {
+      "ItemToClone": "5c0e5bab86f77461f55ed1f3",
+      "newID": "66330f2af4b5f96a6fb6a121",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/6b23.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "6B23-1 body armor (Tan)",
+          "shortName": "6B23-1 Tan",
+          "description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330f2f8835fa72638b7ae4": {
+      "ItemToClone": "5c0e57ba86f7747fa141986d",
+      "newID": "66330f2f8835fa72638b7ae4",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/ArmoredVests/6b23.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "6B23-2 body armor (Tan)",
+          "shortName": "6B23-2 Tan",
+          "description": "The \"Zabralo-8\" main armored vest for personnel of combat units of the ground forces, airborne troops, marines, etc. The vest is designed to protect vital organs from being hit by firearms, shell fragments, mines, grenades, and cold weapons, reducing the severity of armor contusion injury when performing combat missions."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    }
+  }
+}

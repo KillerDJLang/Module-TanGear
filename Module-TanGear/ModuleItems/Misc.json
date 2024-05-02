@@ -1,0 +1,112 @@
+{
+  "MiscGearTan": {
+    "6633057462b3125257d9af7d": {
+      "ItemToClone": "5ab8f39486f7745cd93a1cca",
+      "newID": "6633057462b3125257d9af7d",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Facecover/CFbalaclava.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Cold Fear Infrared balaclava (Tan)",
+          "shortName": "CF",
+          "description": "A quality balaclava with a special technological material, which ensures maximum warmth in the most severe frosts. But we do not need it for warmth. We need it to look tactical."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330579f833ebb5d977db9b": {
+      "ItemToClone": "572b7fa524597762b747ce82",
+      "newID": "66330579f833ebb5d977db9b",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Facecover/halfmask.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Lower half-mask (Tan)",
+          "shortName": "Half-mask",
+          "description": "A piece of cloth, typically a bandana, covering the face from nose and below, is the most typical attribute of a street gang member."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "6633057f6a1d24c6bc5f224e": {
+      "ItemToClone": "5b432f3d5acfc4704b4a1dfb",
+      "newID": "6633057f6a1d24c6bc5f224e",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Facecover/momex.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Momex balaclava (Tan)",
+          "shortName": "Momex",
+          "description": "A tactical balaclava with a single hole for eyes."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663305853664eeecc4e05c43": {
+      "ItemToClone": "5ab8f85d86f7745cd93a1cf5",
+      "newID": "663305853664eeecc4e05c43",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Facecover/shemaghV1.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Shemagh (Tan, ver. 1)",
+          "shortName": "Shemagh",
+          "description": "A favorite headpiece of PMCs around the globe."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    }
+  }
+}

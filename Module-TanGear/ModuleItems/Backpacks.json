@@ -1,0 +1,193 @@
+{
+  "BackpacksTan": {
+    "66330a0004391b66cf2f3c36": {
+      "ItemToClone": "5f5e46b96bdad616ad46d613",
+      "newID": "66330a0004391b66cf2f3c36",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Backpacks/f4terminator.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Eberlestock F4 Terminator load bearing backpack (Tan)",
+          "shortName": "F4 Terminator",
+          "description": "An extremely versatile full-format load bearing backpack for military use. Manufactured by Eberlestock."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330a069fd1e90f3381309f": {
+      "ItemToClone": "5c0e774286f77468413cc5b2",
+      "newID": "66330a069fd1e90f3381309f",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Backpacks/blackjack50.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Mystery Ranch Blackjack 50 backpack (Tan)",
+          "shortName": "Blackjack 50",
+          "description": "A backpack made for long and successful raids, manufactured by Mystery Ranch."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330a0b28ba374c2e4e69fa": {
+      "ItemToClone": "5b44c6ae86f7742d1627baea",
+      "newID": "66330a0b28ba374c2e4e69fa",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Backpacks/beta2.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "ANA Tactical Beta 2 Battle backpack (Tan)",
+          "shortName": "Beta 2",
+          "description": "A lightweight and capacious backpack from ANA Tactical. Specially designed for use in dynamic conditions and on rough terrain."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330a0fc21c922821267b8b": {
+      "ItemToClone": "5e4abc6786f77406812bd572",
+      "newID": "66330a0fc21c922821267b8b",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Backpacks/medpack.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "LBT-2670 Slim Field Med Pack (Tan)",
+          "shortName": "SFMP",
+          "description": "A low-profile medical backpack, designed to carry large amounts of specialized medical equipment and supplies. Manufactured by London Bridge Trading."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330a123fe46bbf4473ea47": {
+      "ItemToClone": "544a5cde4bdc2d39388b456b",
+      "newID": "66330a123fe46bbf4473ea47",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Backpacks/mbss.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Flyye MBSS Backpack (Tan)",
+          "shortName": "MBSS",
+          "description": "An extra durable backpack made from 1000D Cordura with a separate pocket for a water bladder and a MOLLE attachment system on the sides."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330a173ae1fa7cc1e48eea": {
+      "ItemToClone": "5e9dcf5986f7746c417435b3",
+      "newID": "66330a173ae1fa7cc1e48eea",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Backpacks/daypack.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "LBT-8005A Day Pack backpack (Tan)",
+          "shortName": "Day Pack",
+          "description": "A simple and reliable 14-liter backpack in Tan color. Manufactured by London Bridge Trading."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66330a1b461dfd1a297ca3c8": {
+      "ItemToClone": "5ca20d5986f774331e7c9602",
+      "newID": "66330a1b461dfd1a297ca3c8",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Backpacks/berkut.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "WARTECH Berkut BB-102 backpack (Tan)",
+          "shortName": "Berkut",
+          "description": "A tactical backpack with front loading capabilities. Suitable for use by military and security forces, or for military tactical games. Manufactured in WARTECH."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "5ac3b934156ae10c4430e83c",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    }
+  }
+}

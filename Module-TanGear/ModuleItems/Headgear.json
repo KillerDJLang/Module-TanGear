@@ -1,0 +1,652 @@
+{
+  "HeadwearTan": {
+    "663316d64ec6e2f10841c17d": {
+      "ItemToClone": "5a7c4850e899ef00150be885",
+      "newID": "663316d64ec6e2f10841c17d",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/6b47.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "6B47 Ratnik-BSh helmet (Tan)",
+          "shortName": "6B47",
+          "description": "6B47 is an aramid helmet of Russian origin. As part of the Ratnik program, it is the new standard-issue helmet for most of the Russian Armed Forces. The 6B47 is similar to previous generation helmets such as the 6B7-1M and 6B27. It has equal protection but weighs slightly less, floats in water, and has mounting equipment for lights and night vision devices. The helmet can be fitted with a variety of covers for different environments."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663316dcf85f261ce7c92b63": {
+      "ItemToClone": "5f60b34a41e30a4ab12a6947",
+      "newID": "663316dcf85f261ce7c92b63",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/caiman.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Galvion Caiman Hybrid helmet (Tan)",
+          "shortName": "Caiman",
+          "description": "The Caiman Hybrid helmet is a new generation of lightweight special forces helmet. A series of modular accessories enhances the package, providing users with lightweight, comfortable and maximum head protection. Manufactured by Galvion."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663316e00a7477be12541091": {
+      "ItemToClone": "5d5e7d28a4b936645d161203",
+      "newID": "663316e00a7477be12541091",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/mich2001.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "MSA ACH TC-2001 MICH Series Helmet (Tan)",
+          "shortName": "TC-2001",
+          "description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663316e5357eee88cd7c84e3": {
+      "ItemToClone": "5d5e9c74a4b9364855191c40",
+      "newID": "663316e5357eee88cd7c84e3",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/mich2002.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "MSA ACH TC-2002 MICH Series Helmet (Tan)",
+          "shortName": "TC-2002",
+          "description": "The MSA Advanced Combat Helmet (ACH) delivers advanced ballistic, fragmentation, and impact head protection, with comfort for long-term use. The helmet’s low-profile design reduces the risk of interference in target acquisition and ensures compatibility with NVGs and headsets."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663316e9865922148cbf6abd": {
+      "ItemToClone": "5e4bfc1586f774264f7582d3",
+      "newID": "663316e9865922148cbf6abd",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/tc800.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "MSA Gallet TC 800 High Cut combat helmet (Tan)",
+          "shortName": "TC 800",
+          "description": "The MSA TC 800 ballistic helmet, designed for use by tactical teams of police special forces, in combat and reconnaissance operations. It can be modified by various components."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663316ecb8353939fbe374c6": {
+      "ItemToClone": "5b40e3f35acfc40016388218",
+      "newID": "663316ecb8353939fbe374c6",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/achhc.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "HighCom Striker ACHHC IIIA black helmet (Tan)",
+          "shortName": "ACHHC",
+          "description": "A combat helmet manufactured by HighCom, the High Cut version. Does not feature any additional mounts. Tan version."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663316f08460a1ac12d3609c": {
+      "ItemToClone": "5d96141523f0ea1b7f2aacab",
+      "newID": "663316f08460a1ac12d3609c",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/doorkicker.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Door Kicker Boonie hat (Tan)",
+          "shortName": "\"Door Kicker\"",
+          "description": "A well-worn \"PriceLess\" boonie hat. It is believed that those who wear it can open any door in this world."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663316f4bee6d3fd8fcead98": {
+      "ItemToClone": "5b43271c5acfc432ff4dce65",
+      "newID": "663316f4bee6d3fd8fcead98",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/head_bandana.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Bandana (Tan)",
+          "shortName": "Bandana",
+          "description": "A tan colored headgear, actively used by special forces around the world."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663316fae2ab5f2aa90d5a3b": {
+      "ItemToClone": "5aa2a7e8e5b5b00016327c16",
+      "newID": "663316fae2ab5f2aa90d5a3b",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/bear_cap.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "BEAR baseball cap (Tan)",
+          "shortName": "BEAR",
+          "description": "A tactical BEAR PMC baseball cap. Tan version."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663316fdb1f081bd01413d39": {
+      "ItemToClone": "5aa2a7e8e5b5b00016327c16",
+      "newID": "663316fdb1f081bd01413d39",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/regular_cap.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Baseball cap (Tan)",
+          "shortName": "Cap",
+          "description": "A tactical baseball cap. Tan version."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663317028a833a25f152a685": {
+      "ItemToClone": "5f60e6403b85f6263c14558c",
+      "newID": "663317028a833a25f152a685",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/beret.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Beret (Tan)",
+          "shortName": "Beret",
+          "description": "Just a tan beret."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663317069cceef08557568a0": {
+      "ItemToClone": "5aa2ba46e5b5b000137b758d",
+      "newID": "663317069cceef08557568a0",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/uxpro.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "UX PRO Beanie (Tan)",
+          "shortName": "UXPRO",
+          "description": "The warm and comfortable UX PRO beanie. For you, only for you. And that guy, too."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "6633170ba8be1b8e8e89559d": {
+      "ItemToClone": "572b7fa124597762b472f9d2",
+      "newID": "6633170ba8be1b8e8e89559d",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/beanie.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Beanie (Tan)",
+          "shortName": "Beanie",
+          "description": "A warm knitted beanie, traditionally made for skiers but worn by everyone."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "6633170fe7a8944491dc8867": {
+      "ItemToClone": "60a7acf20c5cb24b01346648",
+      "newID": "6633170fe7a8944491dc8867",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/cap_backwards.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Baseball cap (Tan, backwards)",
+          "shortName": "Cap",
+          "description": "A tactical baseball cap. Tan version."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "6633171460ad928118ed081e": {
+      "ItemToClone": "60a7acf20c5cb24b01346648",
+      "newID": "6633171460ad928118ed081e",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/cap_backwards_tagilla.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "BOSS cap (Tan)",
+          "shortName": "Cap",
+          "description": "A fancy tan BOSS cap. Yo, fella, you da real BOSS now!"
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663317175e60a1fe43b076c6": {
+      "ItemToClone": "5aa7d03ae5b5b00016327db5",
+      "newID": "663317175e60a1fe43b076c6",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/Headwear/untar_helmet.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Gefechtshelm M92 (Tan)",
+          "shortName": "M92",
+          "description": "The Gefechtshelm M92 (or Gefechtshelm Schuberth B826) is the standard issue combat helmet of the Bundeswehr, first fielded in 1992 as a replacement of earlier M1956 steel helmets that were previously used during the Cold War. It is made from Aramid composite materials and is used by all branches of the Bundeswehr."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "6633171b7704c969d36612a3": {
+      "ItemToClone": "5ea058e01dbce517f324b3e2",
+      "newID": "6633171b7704c969d36612a3",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/MiscGear/tk_heavy_trooper.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Tac-Kek Heavy Trooper mask for Ops-Core-type helmets (Tan)",
+          "shortName": "TK Heavy Trooper",
+          "description": "The Tac-Kek Heavy Trooper mask is an additional ballistic module for Ops-Core-type helmets, based on the famous movie universe. This is the way."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 4
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "6633171e7008aded96ca8e6a": {
+      "ItemToClone": "5f60b85bbdb8e27dee3dc985",
+      "newID": "6633171e7008aded96ca8e6a",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/MiscGear/caiman_applique.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Galvion Caiman Hybrid Ballistic Applique (Tan)",
+          "shortName": "Caiman BA",
+          "description": "An additional up-armor helmet shell attachment to elevate or enhance ballistic and fragmentation protection of the Caiman Hybrid Helmet. Manufactured by Galvion."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "6633172353a6422bebd90bb4": {
+      "ItemToClone": "5f60bf4558eff926626a60f2",
+      "newID": "6633172353a6422bebd90bb4",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/MiscGear/caiman_visor.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Galvion Caiman Fixed Arm Visor (Tan)",
+          "shortName": "Caiman FAV",
+          "description": "A locked-in ballistic visor shield for installation on the Caiman Hybrid helmet's shroud. Manufactured by Galvion."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663317295af87ca1376fe1ce": {
+      "ItemToClone": "5f60c076f2bcbb675b00dac2",
+      "newID": "663317295af87ca1376fe1ce",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/MiscGear/caiman_mandible.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Galvion Caiman Hybrid Ballistic Mandible Guard (Tan)",
+          "shortName": "Caiman BMG",
+          "description": "A special additional ballistic protection for the Caiman Hybrid helmet, mounted on the side rails. Manufactured by Galvion."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "6633172d734ea9e34a65c4dd": {
+      "ItemToClone": "5a16b7e1fcdbcb00165aa6c9",
+      "newID": "6633172d734ea9e34a65c4dd",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/MiscGear/ops_core_visor.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Ops-Core FAST multi-hit ballistic face shield (Tan)",
+          "shortName": "FAST FS",
+          "description": "A special high-strength ballistic visor for the Ops-Core FAST helmet, used by the special forces assault teams."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 3
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "66331731b03f60700d3fb495": {
+      "ItemToClone": "5a16b672fcdbcb001912fa83",
+      "newID": "66331731b03f60700d3fb495",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/MiscGear/ops_core_fast_visor.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Ops-Core FAST Visor (Tan)",
+          "shortName": "FAST",
+          "description": "The FAST visor, designed to protect the eyes and part of the user's face from shell fragments, mines, grenades, drops of chemically aggressive liquids and oils, coarsely dispersed aerosols, thermal factors, atmospheric influences and mechanical damages in all types of combat operations."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 2
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "663317362ee57391f122435d": {
+      "ItemToClone": "5a16badafcdbcb001865f72d",
+      "newID": "663317362ee57391f122435d",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/MiscGear/ops_core_side_armor.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Ops-Core FAST Side Armor (Tan)",
+          "shortName": "FAST Ears",
+          "description": "An additional armor module for the Ops-Core FAST helmet, protects the ears from shrapnel and small caliber ricochets."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    },
+    "6633173adf11877abc5c5452": {
+      "ItemToClone": "5a16ba61fcdbcb098008728a",
+      "newID": "6633173adf11877abc5c5452",
+      "OverrideProperties": {
+        "Prefab": {
+          "path": "AddGearTan/MiscGear/ops_core_mandible.bundle",
+          "rcid": ""
+        }
+      },
+      "LocalePush": {
+        "en": {
+          "name": "Ops-Core FAST Gunsight Mandible (Tan)",
+          "shortName": "Gunsight",
+          "description": "An additional armor module for the Ops-Core FAST helmet, mounted on the Side Armor component."
+        }
+      },
+      "TraderScheme": {
+        "AddToTrader": true,
+        "TraderToUse": "54cb50c76803fa8b248b4571",
+        "CurrencyToUse": "5449016a4bdc2d6f028b456f",
+        "LoyaltyLevel": 1
+      },
+      "CloneToFilters": true,
+      "BotPush": {
+        "AddToBots": true
+      }
+    }
+  }
+}
